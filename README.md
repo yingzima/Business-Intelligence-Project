@@ -1,6 +1,4 @@
-# Business-Intelligence-Project
-Business Intelligence Project for an insurance technology company
-
+# Business Intelligence Project
 
 The BI project team used the following underlying objectives to ground their project work, analysis and recommendations:
 
