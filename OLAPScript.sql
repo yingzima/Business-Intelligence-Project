@@ -1,4 +1,5 @@
-/*Note - If implemented in OLAP enabled environment, the below queries would use ROLLUP or CUBE functions rather than unioned queries with different group by conditions.*/
+/*Note - If implemented in OLAP enabled environment, the below queries would use ROLLUP or CUBE 
+functions rather than unioned queries with different group by conditions.*/
 
 SELECT 
 lead_status,
